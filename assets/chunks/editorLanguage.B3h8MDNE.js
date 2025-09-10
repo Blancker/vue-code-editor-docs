@@ -1,4 +1,4 @@
-import{d as g,p as a,c,o as s,G as n,w as u,C as l,F as m,B as x,b as V}from"./framework.B1mQzHZN.js";const h=g({__name:"editorLanguage",setup(b){const t=a("javascript"),d=a(["javascript","json","html","vue","css","less","sass","markdown","python","java","sql","xml","yaml"]),r=a(`const count = 0;
+import{d as g,p as a,c,o as s,G as n,w as u,C as l,F as m,B as x,b as V}from"./framework.PWM7RAmH.js";const h=g({__name:"editorLanguage",setup(b){const t=a("javascript"),d=a(["javascript","json","html","vue","css","less","sass","markdown","python","java","sql","xml","yaml"]),r=a(`const count = 0;
 
 const increase = () => {
     count++;

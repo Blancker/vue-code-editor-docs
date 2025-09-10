@@ -1,4 +1,4 @@
-import{d as p,p as d,c as _,o as f,G as o,w as r,C as t,F as v}from"./framework.B1mQzHZN.js";const w=p({__name:"editorBase",setup(V){const n=d(!0),a=d(!1),u=d(`const count = 0;
+import{d as p,p as d,c as _,o as f,G as o,w as r,C as t,F as v}from"./framework.PWM7RAmH.js";const w=p({__name:"editorBase",setup(V){const n=d(!0),a=d(!1),u=d(`const count = 0;
 
 const increase = () => {
     count++;

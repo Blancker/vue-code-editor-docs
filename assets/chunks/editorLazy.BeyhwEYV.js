@@ -1,4 +1,4 @@
-import{d as l,p as r,v as c,b as d,o as u,C as i}from"./framework.B1mQzHZN.js";const m=l({__name:"editorLazy",setup(p){const o=r(),n=r(`const count = 0;
+import{d as l,p as r,v as c,b as d,o as u,C as i}from"./framework.PWM7RAmH.js";const m=l({__name:"editorLazy",setup(p){const o=r(),n=r(`const count = 0;
 
 const increase = () => {
     count++;

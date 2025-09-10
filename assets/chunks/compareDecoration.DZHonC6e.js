@@ -1,4 +1,4 @@
-import{d as s,p as o,b as u,o as l,C as p}from"./framework.B1mQzHZN.js";const f=s({__name:"compareDecoration",setup(i){const r=o([{}]),t=o(`const [[count]] = 0;
+import{d as s,p as o,b as u,o as l,C as p}from"./framework.PWM7RAmH.js";const f=s({__name:"compareDecoration",setup(i){const r=o([{}]),t=o(`const [[count]] = 0;
 
 const increase = () => {
     count++;

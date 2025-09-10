@@ -1,4 +1,4 @@
-import{d as c,p as t,b as l,o as u,C as p}from"./framework.B1mQzHZN.js";const i=c({__name:"editorDecoration",setup(d){const e=t(`默认装饰器: [[default.user.name]] 
+import{d as c,p as t,b as l,o as u,C as p}from"./framework.PWM7RAmH.js";const i=c({__name:"editorDecoration",setup(d){const e=t(`默认装饰器: [[default.user.name]] 
 
 自定义样式装饰器: [[custom.user.name]] 
 
