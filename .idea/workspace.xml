@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af647477-554a-426a-b4cb-ef5323a62448" name="Changes" comment="代码优化 &amp; 已知问题修复 &amp; 发布新版本">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.CIwRMDDC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.DYKTMuQ0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.DNqF_dsi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/compareBase.7UtzwonH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/compareDecoration.DZHonC6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/comparePreview.Ddo-gYLo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorBase.CyyXoK9R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorDecoration.Cd6jqyDs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorFooter.MXmiHAZ1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLanguage.B3h8MDNE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLazy.BeyhwEYV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorTabSize.6KUlhCGc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/framework.PWM7RAmH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/iconfont.d5EPIyqq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.BYtozN_r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/components_compare.md.DNUyqBHq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/components_compare.md.DNUyqBHq.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/components_editor.md.lbJ7Jf4s.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/components_editor.md.lbJ7Jf4s.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.DF3enuXM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.DF3enuXM.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.q8hfQSlR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.q8hfQSlR.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-cyrillic-ext.r48I6akx.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-cyrillic.By2_1cv3.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-greek-ext.1u6EdAuj.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-greek.DJ8dCoTZ.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-latin-ext.CN1xVJS-.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-latin.C2AdPX0b.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-italic-vietnamese.BSbpV94h.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-cyrillic.C5lxZ8CY.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-greek-ext.CqjqNYQ-.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-greek.BBVDIX6e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-latin-ext.4ZJIpNVo.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-latin.Di8DUHzh.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inter-roman-vietnamese.BjW4sHH5.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.CivAfkFi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/compare.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/quickstart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1749626707" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1749626706" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yLuuPfKSJsOi0RZ1gEVJRYELf3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/WorkSpaces/WebUIPlugins/vue-code-editor-docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af647477-554a-426a-b4cb-ef5323a62448" name="Changes" comment="" />
+      <created>1749626396592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749626396592</updated>
+      <workItem from="1749626397659" duration="288000" />
+      <workItem from="1749626695022" duration="633000" />
+      <workItem from="1749629002840" duration="482000" />
+      <workItem from="1749629522811" duration="134000" />
+      <workItem from="1749630795380" duration="9000" />
+      <workItem from="1749630808647" duration="105000" />
+      <workItem from="1757494301242" duration="182000" />
+      <workItem from="1768894482634" duration="613000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <option name="closed" value="true" />
+      <created>1749626588379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749626588379</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新文档内容">
+      <option name="closed" value="true" />
+      <created>1749629112207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749629112207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新文档内容">
+      <option name="closed" value="true" />
+      <created>1749629566754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749629566754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="代码优化 &amp; 已知问题修复 &amp; 发布新版本">
+      <option name="closed" value="true" />
+      <created>1757494422342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757494422342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目" />
+    <MESSAGE value="更新文档内容" />
+    <MESSAGE value="代码优化 &amp; 已知问题修复 &amp; 发布新版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码优化 &amp; 已知问题修复 &amp; 发布新版本" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
