@@ -4,53 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af647477-554a-426a-b4cb-ef5323a62448" name="Changes" comment="代码优化 &amp; 已知问题修复 &amp; 发布新版本">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/app.CIwRMDDC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.DYKTMuQ0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.DNqF_dsi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/compareBase.7UtzwonH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/compareDecoration.DZHonC6e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/comparePreview.Ddo-gYLo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorBase.CyyXoK9R.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorDecoration.Cd6jqyDs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorFooter.MXmiHAZ1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLanguage.B3h8MDNE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLazy.BeyhwEYV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/editorTabSize.6KUlhCGc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/framework.PWM7RAmH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/iconfont.d5EPIyqq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.BYtozN_r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/components_compare.md.DNUyqBHq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/components_compare.md.DNUyqBHq.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/components_editor.md.lbJ7Jf4s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/components_editor.md.lbJ7Jf4s.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.DF3enuXM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.DF3enuXM.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.q8hfQSlR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.md.q8hfQSlR.lean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-cyrillic-ext.r48I6akx.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-cyrillic.By2_1cv3.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-greek-ext.1u6EdAuj.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-greek.DJ8dCoTZ.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-latin-ext.CN1xVJS-.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-latin.C2AdPX0b.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-italic-vietnamese.BSbpV94h.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-cyrillic.C5lxZ8CY.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-greek-ext.CqjqNYQ-.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-greek.BBVDIX6e.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-latin-ext.4ZJIpNVo.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-latin.Di8DUHzh.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/inter-roman-vietnamese.BjW4sHH5.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style.CivAfkFi.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/compare.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guides/quickstart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="af647477-554a-426a-b4cb-ef5323a62448" name="Changes" comment="代码优化 &amp; 发布新版本">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.DeaiKQlh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/@localSearchIndexroot.DDlM0q4t.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/VPLocalSearchBox.SvAHBV7C.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/compareBase.1OWFnNmo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/compareDecoration.BZ5K0M9W.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/comparePreview.ytR9G4Ts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorBase.Cpnah-Aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorDecoration.D6BVq_bR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorFooter.CRLgyCBa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLanguage.BA5IOsUP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorLazy.CXLK7ivB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorSlots.CJxCrPU9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/editorTabSize.DJ-tYn2W.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/framework.DqtzHBVO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/index.BHCcwxNY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/index.CaSHTbIB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/index.CyqR8-Gz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chunks/theme.1S73ytwN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_components_compare.md.BjtZMmnx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_components_compare.md.BjtZMmnx.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_components_editor.md.gYxRGjt1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_components_editor.md.gYxRGjt1.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.CkOeqZ9b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guides_quickstart.md.CkOeqZ9b.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.Bo7EQrhX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.md.Bo7EQrhX.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.C-HK2rSB.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/components/compare.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/components/compare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/components/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/components/editor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/quickstart.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/quickstart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +93,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/WorkSpaces/WebUIPlugins/vue-code-editor-docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -136,7 +125,8 @@
       <workItem from="1749630795380" duration="9000" />
       <workItem from="1749630808647" duration="105000" />
       <workItem from="1757494301242" duration="182000" />
-      <workItem from="1768894482634" duration="613000" />
+      <workItem from="1768894482634" duration="764000" />
+      <workItem from="1781663877774" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <option name="closed" value="true" />
@@ -170,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757494422342</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="代码优化 &amp; 发布新版本">
+      <option name="closed" value="true" />
+      <created>1768896098725</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768896098725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +189,8 @@
     <MESSAGE value="初始化项目" />
     <MESSAGE value="更新文档内容" />
     <MESSAGE value="代码优化 &amp; 已知问题修复 &amp; 发布新版本" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码优化 &amp; 已知问题修复 &amp; 发布新版本" />
+    <MESSAGE value="代码优化 &amp; 发布新版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码优化 &amp; 发布新版本" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

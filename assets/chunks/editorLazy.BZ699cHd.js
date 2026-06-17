@@ -1,0 +1,6 @@
+import{d as l,v as c,p as r,B as d,b as u,o as i}from"./framework.CSx3vDAv.js";const m=l({__name:"editorLazy",setup(p){const o=r(),n=r(`const count = 0;
+
+const increase = () => {
+	count++;
+}
+`);return c(()=>{var e;(e=o.value)==null||e.init()}),(e,t)=>{const a=d("vue-code-editor");return i(),u(a,{ref_key:"editorRef",ref:o,modelValue:n.value,"onUpdate:modelValue":t[0]||(t[0]=s=>n.value=s),style:{height:"210px"},border:"",lazy:""},null,8,["modelValue"])}}});export{m as default};
